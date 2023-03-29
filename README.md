@@ -5,7 +5,7 @@ I originally started this digital gauge cluster project for my FD3S RX7 since I 
 
 While I'm happy where the gauge cluster currently is, there are still a lot of things that need to be finished. I taught myself how to code by watching Youtube videos and searching the internet so I don't have enough skill and knowledge to finish this. I don't want this project to be wasted and I think with the help of more knowledgeable, this gauge cluster could become something really nice. 
 
-With that said, I don't want to see this project commercialized or sold for project. I would like to keep this gauge cluster project free for anyone who would like to make one of their own.
+With that said, I don't want to see this project commercialized or sold for profit. I would like to keep this gauge cluster project free for anyone who would like to make one of their own.
 
 Notes:
 1. For those that are expecting to download the files, buy the parts and put it together in a day, it's not even close. Almost all of the parts I used are obsolete and I don't want to spend the time to find alternate solutions.
