@@ -9,7 +9,7 @@ With that said, I don't want to see this project commercialized or sold for prof
 
 Notes:
 1. For those that are expecting to download the files, buy the parts and put it together in a day, it's not even close. Almost all of the parts I used are obsolete and I don't want to spend the time to find alternate solutions.
-2. Keep in mind that I've never taken a class on coding/PCB design. What you're going to see is ugly but it works as a proof of concept.
+2. Keep in mind that I've never taken a class on coding/PCB design. What you're going to see is ugly but it works as a proof of concept. I did the work of proving that yes, it's physically possible to fit five LCD screens behind the bezel. The code is literally consists of basic functions that a 10 year old could probably re-write better in a few hours. I uploaded the files not as a way for people to replicate the same thing I have but instead to spark new ideas, whether it's with different hardware or software. I've looked into the LVGL library and it looks like a better option than the FTDI EVE based displays.
 3. I'm not going to provide the gauge background jpeg's since they aren't hard to replicate and I'd like to see original designs.
 
 BOM:
