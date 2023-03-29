@@ -16,3 +16,9 @@ BOM:
 1. 3X New Haven Display 3.5" LCD ---- NHD-3.5-320240FT-CSXN-CTP ---- obsolete
 2. 2X New Haven Display 7.0" ---- NHD-7.0-800480FT-CSXN-CTP ---- obsolete
 3. 5X Teensy 3.5 ---- out of stock, not recommended for new designs
+
+Helpful Links:
+https://github.com/FT81xMania/GD23ZUTX
+https://excamera.com/files/gd2book_v0.pdf
+https://www.ftdichip.com/old2020/Products/Modules/EVE2Modules.html
+
