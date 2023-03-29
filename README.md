@@ -18,7 +18,10 @@ BOM:
 3. 5X Teensy 3.5 ---- out of stock, not recommended for new designs
 
 Helpful Links:
+
 https://github.com/FT81xMania/GD23ZUTX
+
 https://excamera.com/files/gd2book_v0.pdf
+
 https://www.ftdichip.com/old2020/Products/Modules/EVE2Modules.html
 
